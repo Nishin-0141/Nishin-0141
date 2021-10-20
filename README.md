@@ -1,4 +1,4 @@
-### Hi there I'm Nishin-0141👋
+### Hi there, I'm Nishin-0141👋
 <p align="left"> 
   <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=Nishin-0141&count_private=true&show_icons=true&show_icons=true&theme=monokai" />
   <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishin-0141&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=monokai" />
